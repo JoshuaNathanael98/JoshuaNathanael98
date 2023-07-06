@@ -1,4 +1,6 @@
-## Hello everyone, thank you for have visiting my page. This page will be about a little bit of introduction and also link to my project for data analyst
+## Hello everyone
+
+thank you for have visiting my page. This page will be about a little bit of introduction and also link to my project for data analyst
 
 - 👋 Hi, I’m **Joshua Nathanael**
 - 👀 I’m interested in Data Analyst and Managing Operations
