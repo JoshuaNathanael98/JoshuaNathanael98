@@ -1,4 +1,4 @@
-- 👋 Hi, I’m `Joshua Nathanael`
+- 👋 Hi, I’m **Joshua Nathanael**
 - 👀 I’m interested in Data Analyst and Managing Operations
 - 🌱 I’m currently learning Data Sciencce with Python
 - 📫 How to reach me: nathanael9898@gmail.com
