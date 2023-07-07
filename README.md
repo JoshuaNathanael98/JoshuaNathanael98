@@ -4,7 +4,7 @@ thank you for have visiting my page. This page will be about a little bit of int
 
 - 👋 Hi, I’m **Joshua Nathanael**
 - 👀 I’m interested in Data Analyst and Managing Operations
-- 🌱 I’m currently learning Data Sciencce with Python
+- 🌱 I’m currently learning case study of Data Analyst
 - 📫 How to reach me: nathanael9898@gmail.com
 
 <!---
