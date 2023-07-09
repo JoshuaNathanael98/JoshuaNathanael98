@@ -12,7 +12,7 @@ thank you for have visiting my page. This page will be about a little bit of int
 ### Case Study
 
 1. Cyclistic
-   In this case study, Cyclistic, a bike sharing company believe to improve the company growth it's depend by converting casual riders into membership. And to do that first of all we need to know how casual and membership use bike differently. By using the historical data, I have found some key findings and my own recommendations based on it. Please visit [Cylistic Case Study](https://joshuanathanael98.github.io/cyclistic-case-study/)
+   In this case study, Cyclistic, a bike sharing company believe to improve the company growth it's depend by converting casual riders into membership. And to do that first of all we need to know how casual and membership use bike differently. By using the historical data, I have found some key findings, that Casual riders use bike for leisure and membership riders use bike for commute. In addition I also give recommendations that the company can take. Please visit [Cylistic Case Study](https://joshuanathanael98.github.io/cyclistic-case-study/) that I have done if you are interested to find more about it.
 
 <!---
 JoshuaNathanael98/JoshuaNathanael98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
