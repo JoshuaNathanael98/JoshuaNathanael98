@@ -7,6 +7,13 @@ thank you for have visiting my page. This page will be about a little bit of int
 - 🌱 I’m currently learning case study of Data Analyst
 - 📫 How to reach me: nathanael9898@gmail.com
 
+---
+
+### Case Study
+
+1. Cyclistic
+   In this case study, Cyclistic, a bike sharing company believe to improve the company growth it's depend by converting casual riders into membership. And to do that first of all we need to know how casual and membership use bike differently. By using the historical data, I have found some key findings and my own recommendations based on it. Please visit [Cylistic Case Study](https://joshuanathanael98.github.io/cyclistic-case-study/)
+
 <!---
 JoshuaNathanael98/JoshuaNathanael98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
